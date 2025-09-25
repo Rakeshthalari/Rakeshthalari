@@ -3,7 +3,7 @@
 <h2>👨‍💻 Identity Access Management Projects:</h2>
 
 
-  - [User Provisioning & Deprovisioning Automation in Okta](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [User Provisioning & Deprovisioning Automation in Okta]([https://github.com/joshmadakor1/Algorithms-Practice](https://github.com/Rakeshthalari/Provisioning-deProvisioning/blob/main/README.md))
 
   - [Application Integration](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
     
