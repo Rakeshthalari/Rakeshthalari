@@ -1,7 +1,37 @@
-## Hi there 👋
+<h1>Rakesh Thalari <br/> <br/><a href="https://www.linkedin.com/in/joshmadakor/">IAM Engineer</a>
+
+<h2>👨‍💻 Identity Access Management Projects:</h2>
+
+
+  - [User Provisioning & Deprovisioning Automation in Okta](https://github.com/joshmadakor1/Algorithms-Practice)
+
+  - [Application Integration](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
+    
+  - [Role-Based Access Control (RBAC)](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
+  
+  - [Attribute-Based Access Control (ABAC)](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)<b></b>
+
+
+<h2>👨‍💻 certifications:</h2>
+
+
+  - [Google cybersecurity professional](https://github.com/joshmadakor1/Algorithms-Practice)
+    
+  - [OKTA certified administrator](https://github.com/joshmadakor1/Algorithms-Practice)
+
+  - [OKTA certified professional](https://github.com/joshmadakor1/Algorithms-Practice)
+
+<h2> 🤳 Connect with me:</h2>
+
+
+[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+
+
+[linkedin]: https://linkedin.com/in/joshmadakor
 
 <!--
-**Rakeshthalari/Rakeshthalari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
