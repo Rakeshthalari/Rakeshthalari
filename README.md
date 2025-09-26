@@ -5,7 +5,7 @@
 
   - [User Provisioning & Deprovisioning Automation in Okta](https://github.com/Rakeshthalari/Provisioning-deProvisioning/blob/main/README.md)
 
-  - [Application Integration](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
+  - [Application Integration (SSO)](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
     
   - [Role-Based Access Control (RBAC)](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
   
