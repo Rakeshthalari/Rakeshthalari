@@ -9,7 +9,7 @@
     
   - [Role-Based Access Control (RBAC)](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
   
-  - [Attribute-Based Access Control (ABAC)](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)<b></b>
+  - [Multi factor authentication](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)<b></b>
 
 
 <h2>👨‍💻 certifications:</h2>
