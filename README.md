@@ -9,7 +9,7 @@
     
   - [Role-Based Access Control (RBAC)](https://github.com/Rakeshthalari/Role-based-access-control/blob/main/README.md)
   
-  - [Multi factor authentication](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)<b></b>
+  - [Multi factor authentication](https://github.com/Rakeshthalari/MFA/blob/main/README.md)<b></b>
 
 
 <h2>👨‍💻 certifications:</h2>
