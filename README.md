@@ -7,7 +7,7 @@
 
   - [Application Integration (SSO)](https://github.com/Rakeshthalari/Application-integration/blob/main/README.md)
     
-  - [Role-Based Access Control (RBAC)](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
+  - [Role-Based Access Control (RBAC)](https://github.com/Rakeshthalari/Role-based-access-control/blob/main/README.md)
   
   - [Multi factor authentication](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)<b></b>
 
