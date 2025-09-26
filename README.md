@@ -11,7 +11,7 @@
   
   - [Multi factor authentication](https://github.com/Rakeshthalari/MFA/blob/main/README.md)
   
-  - [Automated IAM User Creation with Terraform](https://github.com/Rakeshthalari/MFA/blob/main/README.md) <b></b>
+  - [Automated IAM User Creation with Terraform](https://github.com/Rakeshthalari/Terraform-IAM-User-Provisioning/blob/main/README.md) <b></b>
 
 
 <h2>👨‍💻 certifications:</h2>
