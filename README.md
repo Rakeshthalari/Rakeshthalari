@@ -15,11 +15,11 @@
 <h2>👨‍💻 certifications:</h2>
 
 
-  - [Google cybersecurity professional](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Google cybersecurity professional](https://www.credly.com/badges/eb040df2-ffc3-4a29-80a9-960fe9a83825/public_url)
     
-  - [OKTA certified administrator](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [OKTA certified administrator](https://www.credly.com/badges/1eeaae72-83a3-4449-a326-8208ba88ff09/public_url)
 
-  - [OKTA certified professional](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [OKTA certified professional](https://www.credly.com/badges/45cf1261-289a-4796-a90d-2acebb84efbd/public_url)
 
 <h2> 🤳 Connect with me:</h2>
 
