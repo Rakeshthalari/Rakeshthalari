@@ -1,5 +1,17 @@
 <h1>Rakesh Thalari <br/> <br/><a href="https://www.linkedin.com/in/joshmadakor/">IAM Engineer</a>
 
+<h1>About Me</h1>
+<p>I am a Security and Identity Engineer with hands-on experience in designing, implementing, and automating Identity and Access Management (IAM) solutions across enterprise environments. My focus lies in building scalable, secure, and policy-driven identity ecosystems that align with Zero Trust principles and regulatory compliance.
+I specialize in Okta, SailPoint, and EntraID, leveraging automation frameworks such as Terraform and Okta Workflows to streamline provisioning, deprovisioning, and access governance. My work ensures identity operations are consistent, auditable, and optimized for both user experience and security posture.</p>
+<h3>Core Competencies</h3>
+Identity Lifecycle Management: Automated provisioning/deprovisioning, JIT onboarding, and SCIM integrations.<br>
+Access Control Models: Role-Based (RBAC) and Attribute-Based (ABAC) access design and enforcement.<br>
+Application Integrations: SSO implementations using SAML, OIDC, and OAuth 2.0 standards.<br>
+Authentication & MFA: Deployment of phishing-resistant MFA and adaptive authentication using Okta FastPass and FIDO2.<br>
+Infrastructure as Code (IaC): Managing identity resources through Terraform for repeatable, version-controlled deployment.<br>
+Cloud IAM: Implementing fine-grained permissions and workload identity solutions in AWS and EntraID.</p>
+
+
 <h2>👨‍💻 Identity Access Management Projects:</h2>
 
 
